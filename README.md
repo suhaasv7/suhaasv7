@@ -1,6 +1,56 @@
-I'm a web developer, always learning and adapting to new technologies. My passion lies in creating websites that are both visually appealing and user-friendly. Staying updated with the latest trends in web technology is a commitment I've made to ensure continuous growth.
+<div align="center">
+
+# Suhaas V
+
+**Full Stack Developer**
+
+Building websites that look good and feel easy to use.
+
+[GitHub](https://github.com/suhaasv7) · [LinkedIn](https://www.linkedin.com/in/suhaasv7/) · [Twitter](https://twitter.com/suhaas_v10) · [Email](mailto:suhaasvijay7@gmail.com)
+
+</div>
 
 ---
+
+## About
+
+I'm a web developer, always learning and adapting to new technologies. My passion lies in creating websites that are both visually appealing and user-friendly. Staying updated with the latest trends in web technology is a commitment I've made to ensure continuous growth.
+
+## Learning & languages
+
+| Language | Where I am |
+| :--- | :--- |
+| JavaScript | Moderate + Learning |
+| HTML | Proficient |
+| CSS | Proficient |
+| Java | Beginner |
+| C | Learning |
+
+## Stack & tools
+
+**Web development**
+
+![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-161b22?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-161b22?style=flat-square&logo=css&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6)
+![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-161b22?style=flat-square&logo=express&logoColor=white)
+
+**Design & workflow**
+
+![Figma](https://img.shields.io/badge/Figma-161b22?style=flat-square&logo=figma&logoColor=F24E1E)
+![VS Code](https://img.shields.io/badge/VS%20Code-161b22?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-161b22?style=flat-square&logo=androidstudio&logoColor=3DDC84)
+![npm](https://img.shields.io/badge/npm-161b22?style=flat-square&logo=npm&logoColor=CB3837)
+![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-161b22?style=flat-square&logo=vite&logoColor=646CFF)
+
+<details>
+<summary>A little about me, in React</summary>
 
 ```javascript
 import React, { useState } from "react";
@@ -43,33 +93,26 @@ const SoftwareEngineer = () => {
 
 export default SoftwareEngineer;
 ```
----
 
-### Skills and Tools:
-![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white)
-![ReactJS](https://img.shields.io/badge/ReactJS-black?style=for-the-badge&logo=react&logoColor=#61DAFB)
-![ReactJS](https://img.shields.io/badge/React-black?style=for-the-badge&logo=figma&logoColor=#F24E1E)
-![ReactJS](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=#007ACC)
-![ReactJS](https://img.shields.io/badge/Android_Studio-black?style=for-the-badge&logo=androidstudio&logoColor=#3DDC84)
-![ReactJS](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=#E34F26)
-![ReactJS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=#1572B6)
-![ReactJS](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=#F7DF1E)
-![ReactJS](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=#3178C6)
-![ReactJS](https://img.shields.io/badge/NPM-black?style=for-the-badge&logo=npm&logoColor=#CB3837)
-![ReactJS](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=#F05032)
-![ReactJS](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=#181717)
-![ReactJS](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite&logoColor=#646CFF)
-![ReactJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=nodedotjs&logoColor=#339933)
-![ReactJS](https://img.shields.io/badge/ExpressJS-black?style=for-the-badge&logo=express&logoColor=#000000)
+</details>
+
+## GitHub activity
+
+<details>
+<summary>Stats & most-used languages</summary>
+
+![Suhaas's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaasv7&show_icons=true&theme=github_dark&hide_border=true)
+
+![Most-used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaasv7&layout=compact&theme=github_dark&hide_border=true)
+
+</details>
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaasvijay&layout=compact&theme=dark&hide_border=true)
----
+## Get in touch
 
-![Suhaas's github stats](https://github-readme-stats.vercel.app/api?username=suhaasvijay&show_icons=true&hide_border=true&theme=dark)
----
-### 📫 Reach me at 
-[![Twitter Follow](https://img.shields.io/twitter/follow/suhaas_v10?style=social)](https://twitter.com/suhaas_v10)
-[![Linkedin Badge](https://img.shields.io/badge/-suhaasv7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/suhaasv7/)
-[![Gmail Badge](https://img.shields.io/badge/-suhaasvijay7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:suhaasvijay7@gmail.com)
+- [Twitter — @suhaas_v10](https://twitter.com/suhaas_v10)
+- [LinkedIn — suhaasv7](https://www.linkedin.com/in/suhaasv7/)
+- [Email — suhaasvijay7@gmail.com](mailto:suhaasvijay7@gmail.com)
+
+Thanks for dropping by. Hope you find some of my work interesting.
